@@ -1,6 +1,6 @@
 {
-  "name": "@luxfi/gnosis-sdk",
-  "version": "1.3.6",
+  "name": "@luxwallet/gnosis-sdk",
+  "version": "1.8.11",
   "main": "dist/index.js",
   "scripts": {
     "build": "tsc"
